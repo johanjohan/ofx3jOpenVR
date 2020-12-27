@@ -7,7 +7,6 @@ I took out some deprecated functions to make it compile.
 I am uploading this to be helpful, I have currently no way of testing this.
 Remember: you have to install openVR/Steam.
 Follow the original instructionsfrom smallfly below.
-...........................................................................
 
 Implementation of Valve Software's [OpenVR](https://github.com/ValveSoftware/openvr) API.
 
