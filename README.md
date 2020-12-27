@@ -6,7 +6,7 @@ I remember this was working in 2018 with OF 0.10 on Windows 10.
 I took out some deprecated functions to make it compile.
 I am uploading this to be helpful, I have currently no way of testing this.
 Remember: you have to install openVR/Steam.
-Follow the original instructionsfrom smallfly below.
+Follow the original instructions from smallfly below.
 
 Implementation of Valve Software's [OpenVR](https://github.com/ValveSoftware/openvr) API.
 
