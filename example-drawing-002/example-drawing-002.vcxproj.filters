@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\src\CGLRenderModel.cpp">
+			<Filter>addons\ofx3jOpenVR\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\src\ofxOpenVR.cpp">
+			<Filter>addons\ofx3jOpenVR\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\jsoncpp.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\dirtools_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\envvartools_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\hmderrors_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\pathtools_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\sharedlibtools_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\strtools_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\vrpathregistry_public.cpp">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR">
+			<UniqueIdentifier>{75AA2B86-BA27-491B-3A9C-3C15}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\src">
+			<UniqueIdentifier>{FCC54940-ACF6-9CAC-581C-E8C8}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\libs">
+			<UniqueIdentifier>{1EDA9A20-243D-AE97-B1F2-7CDF}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\libs\OpenVR">
+			<UniqueIdentifier>{73B0B2D5-EFE9-EB08-8871-8AA1}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\libs\OpenVR\headers">
+			<UniqueIdentifier>{EE70DAF4-8BA8-3A49-22C7-62DE}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\libs\OpenVR\src">
+			<UniqueIdentifier>{FA35F339-10D6-167C-7708-1892}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\libs\OpenVR\src\json">
+			<UniqueIdentifier>{51C4B481-691A-905C-C288-0953}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon">
+			<UniqueIdentifier>{31014E6C-0009-B5F2-344E-95F3}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\src\CGLRenderModel.h">
+			<Filter>addons\ofx3jOpenVR\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\src\ofx3jOpenVR.h">
+			<Filter>addons\ofx3jOpenVR\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\src\ofxOpenVR.h">
+			<Filter>addons\ofx3jOpenVR\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\headers\openvr.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\headers</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\headers\openvr_capi.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\headers</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\headers\openvr_driver.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\headers</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\ivrclientcore.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\json\json-forwards.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\json</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\json\json.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\json</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\dirtools_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\envvartools_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\hmderrors_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\pathtools_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\sharedlibtools_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\strtools_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon\vrpathregistry_public.h">
+			<Filter>addons\ofx3jOpenVR\libs\OpenVR\src\vrcommon</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
